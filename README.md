@@ -1,2 +1,2 @@
 # development
-This repository is to programing for me.
+This repository is to practice programing for me.
